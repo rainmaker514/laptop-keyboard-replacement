@@ -30,5 +30,17 @@
 </p>
 
 <p align="center">
-  <img src="images/battery-remove2.jpg" alt="battery-remove2" width="500"/>
+  <img src="./images/battery-remove2.jpg" alt="battery-remove2" width="500"/>
+</p>
+
+## Step 4: Motherboard and Component Removal
+  * Disconnect ribbon cables and pin connectors.
+  * Remove motherboard, cooling fan, IO board, and hard drive.
+
+<p align="center">
+  <img src="./images/component-remove1.jpg" alt="component-remove1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./images/component-remove2.jpg" alt="component-remove2" width="500"/>
 </p>
