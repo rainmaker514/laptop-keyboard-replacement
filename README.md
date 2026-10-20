@@ -18,7 +18,7 @@
   * Carefully pry open and left away cover to expose internal components.
 
 <p align="center">
-  <img src="./images/cover-remove" alt="cover-remove" width="500"/>
+  <img src="./images/cover-remove.jpg" alt="cover-remove" width="500"/>
 </p>
 
 ## Step 3: Power Disconnection
