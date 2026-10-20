@@ -21,4 +21,6 @@
   <img src="images/cover-remove.jpg" alt="cover-remove" width="500"/>
 </p>
 
-## Step 3: Power Disconnection
+## Step 3: Power Isolation
+  * Locate internal battery.
+  * Disconnect battery from motherboard to prevent short circuits.
