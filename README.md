@@ -18,9 +18,17 @@
   * Carefully pry open and left away cover to expose internal components.
 
 <p align="center">
-  <img src="images/cover-remove.jpg" alt="cover-remove" width="500"/>
+  <img src="./images/cover-remove.jpg" alt="cover-remove" width="500"/>
 </p>
 
 ## Step 3: Power Isolation
   * Locate internal battery.
   * Disconnect battery from motherboard to prevent short circuits.
+
+<p align="center">
+  <img src="./images/battery-remove1.jpg" alt="battery-remove1" width="500"/>
+</p>
+
+<p align="center">
+  <img src="./images/battery-remove2.jpg" alt="battery-remove2" width="500"/>
+</p>
