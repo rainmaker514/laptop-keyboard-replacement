@@ -5,7 +5,7 @@
 * **Components:** Bottom enclosure, battery, motherboard, heatsink, fan, IO board, SSD, internal cabling and ribbon connectors, metal shielding, and keyboard module. 
 
 <p align="center">
-  <img src="images/20261014_112510.jpg" alt="prep" width="500"/>
+  <img src="./images/20261014_112510.jpg" alt="prep" width="500"/>
 </p>
 
 ## Step 1: Component Inspection
