@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="./images/battery-remove2.jpg" alt="battery-remove2" width="500"/>
+  <img src="images/battery-remove2.jpg" alt="battery-remove2" width="500"/>
 </p>
