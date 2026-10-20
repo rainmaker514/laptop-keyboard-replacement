@@ -15,7 +15,7 @@
 ## Step 2: Remove Bottom Enclosure
   * Place laptop face down on a clean, non-scratch surface.
   * Unscrew and remove all screws securing the bottom cover to the chassis.
-  * Carefully pry open and left away cover to expose internal components.
+  * Carefully pry open and lift away cover to expose internal components.
 
 <p align="center">
   <img src="./images/cover-remove.jpg" alt="cover-remove" width="500"/>
@@ -43,4 +43,18 @@
 
 <p align="center">
   <img src="./images/component-remove2.jpg" alt="component-remove2" width="500"/>
+</p>
+
+## Step 5: Removing Old Keyboard and Installing New Keyboard
+  * Unscrew and remove all screws securing the keyboard's metal shielding.
+  * Lift away shielding and remove all screws securing the keyboard to the chassis.
+  * Lift away old keyboard module from the frame.
+  * Drop in new keyboard into the keyboard frame, ensuring all keys are fit flush in the frame.
+  * Secure the module to the frame with screws, then secure the metal shielding on top.
+  * Reinstall all components and reconnect all ribbon cables and pin connectors.
+  * Reconnect battery and screw bottom cover back onto the chassis.
+  * Power on laptop and test every key to ensure proper function.
+
+<p align="center">
+  <img src="./images/component-remove1.jpg" alt="component-remove1" width="500"/>
 </p>
