@@ -56,5 +56,17 @@
   * Power on laptop and test every key to ensure proper function.
 
 <p align="center">
-  <img src="./images/component-remove1.jpg" alt="component-remove1" width="500"/>
+  <img src="./images/keyboard1.jpg" alt="keyboard1" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="./images/keyboard2.jpg" alt="keyboard2" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="./images/keyboard3.jpg" alt="keyboard3" width="50%"/>
+</p>
+
+<p align="center">
+  <img src="./images/final.jpg" alt="final" width="50%"/>
 </p>
